@@ -19,6 +19,7 @@ php artisan key:generate
 ```terminal
 php artisan migrate:refresh --seed
 ```
+- Uji coba aplikasi : 
 ``` terminal
 php artisan produk:list
 ```
